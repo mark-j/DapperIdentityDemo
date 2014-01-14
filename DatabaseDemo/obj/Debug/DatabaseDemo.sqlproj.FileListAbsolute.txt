@@ -1,0 +1,5 @@
+C:\TFS\DapperIdentityDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dacpac
+C:\TFS\DapperIdentityDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dll
+C:\TFS\DapperIdentityDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\TFS\DapperIdentityDemo\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+C:\TFS\DapperIdentityDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

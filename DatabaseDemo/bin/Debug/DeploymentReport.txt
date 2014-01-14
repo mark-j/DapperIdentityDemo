@@ -1,0 +1,17 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ExternalLogins] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[FK_ExternalLogins_Users] (Foreign Key)
+
+** Supporting actions
