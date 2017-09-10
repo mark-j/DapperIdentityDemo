@@ -5,6 +5,11 @@ A demo of the standard ASP.NET MVC 5 website template with Entity Framework remo
 [Dapper](https://code.google.com/p/dapper-dot-net/), a Micro ORM built by the good folks over at
 [StackOverflow](http://stackoverflow.com/).
 
+ASP.NET Core Identity:
+----------------------
+
+Check out this [new version](https://github.com/mark-j/dapper-identity) for ASP.NET Core Identity.
+
 
 Requirements:
 -------------
@@ -15,4 +20,4 @@ Requirements:
 More Info:
 ----------
 
-For more information, take a gander at this [blog post](http://blog.markjohnson.io/exorcising-entity-framework-from-asp-net-identity/).
+For more information, take a gander at this [blog post](https://markjohnson.io/articles/exorcising-entity-framework-from-asp-net-identity/).
